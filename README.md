@@ -1,0 +1,7 @@
+# NVIM 
+
+## Setting
+
+## Short Cut
+
+
